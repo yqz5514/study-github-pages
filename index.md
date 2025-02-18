@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to Yaxin's Study Blogs
 ---
 
 I want to create a personal profile webpage
